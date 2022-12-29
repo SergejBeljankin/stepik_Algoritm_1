@@ -1,0 +1,14 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÀÈÁä
+S	java:S106"9Replace this use of System.out or System.err by a logger.(üŞçÀûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÁĞªò
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÈÆÔÇ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÁĞªò
+E
+java:S1128"*Remove this unused import 'java.sql.Time'.(Üå»‰şÿÿÿÿ
+J
+java:S1128"/Remove this unused import 'java.time.Duration'.(ëá¯‰üÿÿÿÿ
+O
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.time.LocalTime'.(à®øÃùÿÿÿÿ

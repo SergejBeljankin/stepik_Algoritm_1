@@ -1,0 +1,8 @@
+
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(Àèôã
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ªé³Ö
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÁĞªò
+S	java:S106"9Replace this use of System.out or System.err by a logger.(—şß£úÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÁĞªò8şÕœÊÍ0
+=
+java:S1905"'Remove this unnecessary cast to "long".(ïæˆà
