@@ -22,11 +22,11 @@ public class Decode {
         int sizeMap = scanner.nextInt();
         int lengthString = scanner.nextInt();
         Map<String, String> codeMap = new HashMap<>();
-        String string;
+        String stringInput;
 
         for (int k = 0; k <= sizeMap - 1; k++) {
-            if ((string = scanner.nextLine()) != null && !string.isBlank()) {
-                codeMap.put(string.split(": ")[0], string.split(" ")[1]);
+            if ((stringInput = scanner.nextLine()) != null && !stringInput.equals("")) {
+                codeMap.put(stringInput.split(": ")[0], stringInput.split(": ")[1]);
 
             } else {
                 k--;
@@ -46,7 +46,7 @@ public class Decode {
         Arrays.stream(stringCode.split("")).forEach(stringQueue::add);
 
 
-        System.out.println(stringQueue);
+//        System.out.println(stringQueue);
         StringBuilder stringBuilderItem = new StringBuilder();
         StringBuilder stringBuilderString = new StringBuilder();
 
